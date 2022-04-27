@@ -15,9 +15,6 @@ public class Car_makemain {
         Car_makemain y = new Car_makemain("绿色",120);
       //  y.color ="绿色";
       //  y.speed = 120;
-
-
-
         Car_makemain yy = new Car_makemain("紫色",10);
       //  yy.color = "紫色";
         //  yy.speed = 10;
