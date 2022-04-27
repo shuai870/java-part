@@ -11,6 +11,8 @@ public class Object_test {
         System.out.println(this.name+"上单");
     }
 
+
+
     public static void main(String[] args) {
             Object_test G = new Object_test("寒冰射手","1","2","3","4");
             G.fight();
